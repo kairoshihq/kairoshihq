@@ -81,13 +81,7 @@
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=aaaaaa)](https://github.com/YOUR_USERNAME/YOUR_REPO_1)
-&nbsp;
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=aaaaaa)](https://github.com/YOUR_USERNAME/YOUR_REPO_2)
-
-[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_3&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=aaaaaa)](https://github.com/YOUR_USERNAME/YOUR_REPO_3)
-&nbsp;
-[![Project 4](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_4&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=aaaaaa)](https://github.com/YOUR_USERNAME/YOUR_REPO_4)
+[![MIREI](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=kairoshihq&repo=MIREI&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=aaaaaa)](https://github.com/kairoshihq/MIREI)
 
 </div>
 
