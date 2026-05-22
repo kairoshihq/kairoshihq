@@ -74,14 +74,14 @@
 
 ---
 
-## `PROJECTS`
+## `PROJECTS IN FOCUS`
 
 <!-- PROJECT CARDS -->
 <!-- Cara embed repo card: https://github-readme-stats.vercel.app/api/pin/?username=USER&repo=REPO&theme=dark -->
 
 <div align="center">
 
-[![MIREI](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=kairoshihq&repo=MIREI&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=aaaaaa)](https://github.com/kairoshihq/MIREI)
+[![MIREI](https://opengraph.githubassets.com/1/kairoshihq/MIREI)](https://github.com/kairoshihq/MIREI)
 
 </div>
 
