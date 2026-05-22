@@ -1,49 +1,4 @@
-<div align="center">
-<!-- 1200x300px, dark theme -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=200&section=header&text=YOUR_NAME&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=「%20Full-Stack%20Sorcerer%20•%20Bug%20Slayer%20•%20Anime%20Enjoyer%20」&descSize=16&descAlignY=58&animation=twinkling" width="100%"/>
-
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&random=false&width=600&height=60&lines=AI+%26+Data+Science+Developer+%F0%9F%A7%A0;Full-Stack+Sorcerer+%E2%9A%94%EF%B8%8F;LeetCode+Problem+Solver+%F0%9F%94%A5;Turning+Coffee+into+Code+%E2%98%95;Currently+Debugging+Life...+%F0%9F%90%9B)](https://git.io/typing-svg)
-
-<!-- PROFILE VIEWS COUNTER -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=1a1a1a&label=VISITORS&labelColor=0d0d0d)
-&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=1a1a1a&labelColor=0d0d0d&label=FOLLOWERS)
-&nbsp;
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=flat-square&color=1a1a1a&labelColor=0d0d0d&label=TOTAL%20STARS)
-
-</div>
-
-## `$ whoami`
-
-<img align="right" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDY4dHd6d3p4ZWJvMmx0Yzh6MmM5dWphZG1leXZ6NmRhdWNhMHVveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mlx/giphy.gif" />
-
-```python
-class Developer:
-    def __init__(self):
-        self.name        = "Kairoshi"
-        self.username    = "kairoshihq"
-        self.location    = "Indonesia 🇮🇩"
-        self.role        = "Full-Stack Developer"
-
-    @property
-    def currently(self):
-        return {
-            "learning"  : ["Model AI Creation", "System Design"],
-            "building"  : "Something that'll break prod ",
-            "grinding"  : "LeetCode — one problem at a time ",
-            "watching"  : "Frieren (again)",
-        }
-
-    def fun_fact(self):
-        return "I write Python scripts to automate myself out of actual work."
-```
-
-<br clear="right"/>
-
----
-
-## `$ ls skills/`
+## `SKILLS` ##
 
 <!-- TECH STACK BADGES -->
 <!-- Generator: https://skillicons.dev -->
@@ -80,7 +35,7 @@ class Developer:
 
 ---
 
-## `$ cat leetcode_stats.json`
+## `PROBLEM SOLVING`
 
 <!-- LEETCODE STATS -->
 <!-- Source: https://github.com/JacobLinCool/LeetCode-Stats-Card -->
@@ -91,12 +46,9 @@ class Developer:
 
 </div>
 
-> **Strategy:** Easy = warm-up, Medium = real grind, Hard = ego check.
-> Updated automatically via LeetCode API.
-
 ---
 
-## `$ github --stats`
+## `STATS`
 
 <!-- GITHUB STATS CARDS -->
 <!-- Theme options: dark, tokyonight, dracula, radical, merko, gruvbox -->
@@ -112,10 +64,6 @@ class Developer:
 
 </div>
 
----
-
-## `$ git log --graph`
-
 <!-- ACTIVITY GRAPH -->
 
 <div align="center">
@@ -126,7 +74,7 @@ class Developer:
 
 ---
 
-## `$ ls projects/ --detailed`
+## `PROJECTS`
 
 <!-- PROJECT CARDS -->
 <!-- Cara embed repo card: https://github-readme-stats.vercel.app/api/pin/?username=USER&repo=REPO&theme=dark -->
@@ -145,51 +93,11 @@ class Developer:
 
 ---
 
-## `$ cat current_quests.log`
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  ACTIVE QUEST LOG                               [ SEASON 1 ] │
-├─────────────────────────────────────────────────────────────┤
-│  [██████████░░░░░░░░░░]  65%  Solve 300 LeetCode problems   │
-│  [████████░░░░░░░░░░░░]  55%  Build & deploy ML API         │
-│  [██████████████░░░░░░]  75%  Master System Design          │
-│  [████░░░░░░░░░░░░░░░░]  20%  Contribute to open source    │
-│  [████████████████████] 100%  ✅ Get first internship       │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-## `$ now_playing`
-
-<!-- SPOTIFY NOW PLAYING - Setup: https://github.com/kittinan/spotify-github-profile -->
-<!-- Ganti YOUR_SPOTIFY_UID setelah deploy ke Vercel -->
-
-<div align="center">
-
-[![Spotify](https://spotify-github-profile.kittinan.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&show_offline=true&background_color=0d0d0d&interchange=true&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.kittinan.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&redirect=true)
-
-</div>
-
----
-
-## `$ open social_links/`
-
 <div align="center">
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN) -->
 [![Gmail](https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azleonidn@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Kairoshi)
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO.vercel.app) -->
-
-</div>
-
----
-
-<div align="center">
-
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=120&section=footer" width="100%"/>
 
 </div>
